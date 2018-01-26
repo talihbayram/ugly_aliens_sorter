@@ -1,10 +1,11 @@
 Ugly Aliens Sorter
 ====================
 
-Aliens Sorter (TM) processes a list of aliens species, sort them by planet of origin and writes in planet-specific format to the output file.
+Aliens Sorter (TM) processes a list of alien species, sorts them by planet of origin and writes in a planet-specific format to the output file.
+It uses ```aliens.csv``` as input and produces ```planets.csv```
 
 Aliens Sorter is a critical piece of company's infrastructure.
-Originally written by a very junior python developer is seen by some as needing at least a minor refactoring. It uses aliens.csv as input and produces planets.csv
+Originally written by a very junior Python developer, this code is seen by some as needing at least a minor refactoring. 
 
 Please review and improve the code if you find it somehow lacking.
 
