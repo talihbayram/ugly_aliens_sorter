@@ -13,4 +13,4 @@ Please review and improve the code if you find it somehow lacking.
 Remember it is a critical piece of infrastructure, and some other processes rely on the output being the same in the new version.
 New planets and species are constantly being discovered in the galaxy.
 
-Your solution should be a git archive containing your changes.
+**Your solution should be a git archive containing your changes.**
